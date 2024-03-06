@@ -1,0 +1,20 @@
+html, body {
+    margin: 0px;
+}
+
+main {
+    display: flex;
+    height: 120vh;
+}
+
+#list {
+    background-color: burlywood;
+    flex: 6;
+}
+#form {
+    background-color: aquamarine;
+    flex: 6;    
+}
+.btn btn-sm btn-primary {
+    color: black;
+}
